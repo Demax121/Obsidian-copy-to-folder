@@ -1,0 +1,9 @@
+{
+  "id": "copy-to-folder",
+  "name": "Copy to Folder",
+  "version": "1.0.0",
+  "minAppVersion": "1.4.0",
+  "description": "Adds a \"Copy to folder…\" option to the context menu – copies a file or folder to a chosen folder without renaming it.",
+  "author": "Alex",
+  "isDesktopOnly": true
+}
